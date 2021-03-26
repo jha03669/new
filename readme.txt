@@ -1,0 +1,1 @@
+This is a wikipedia web scrapper.When you run this code and type in a name that has a wikipedia page this python script will automatically pull the first paragraph of the wikipedi page.
